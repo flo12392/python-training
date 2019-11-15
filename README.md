@@ -1,3 +1,3 @@
 # python-training
 
-test
+This repository contains code for python training.
